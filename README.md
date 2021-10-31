@@ -6,3 +6,4 @@
 * This Repository contains the financial analysis of the stock data of multiple years including 2020 year(Coronavirus Year) using python3 & Interactive Data Visualization!
 * Interactive plots using Plotly Library has been used to provide the more interactive plots to study the trends.
 
+* Much more amazing things to come in this year!
